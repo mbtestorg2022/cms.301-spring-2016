@@ -36,11 +36,48 @@ Requirements and Grading
 
 The crit sessions play an important role in student assessment. Fulfillment of the learning objectives will be evaluated throughout the course and aggregated in a summative assessment.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Performance in individual assignments | 20% |
-| Active participation in crit sessions and in-class activities | 40% |
-| Individual performance in group projects | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Performance in individual assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active participation in crit sessions and in-class activities
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual performance in group projects
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Students who miss more than three crit sessions will fail the active participation component of the class
 *   Students who do not submit written assignments on time will fail the assignment
