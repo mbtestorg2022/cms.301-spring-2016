@@ -32,9 +32,9 @@ Introduction
 {{< tdopen >}}
 
 
-Gaver, Bill, Tony Dunne, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Design: Cultural Probes." (PDF)](http://ellieharmon.com/wp-content/uploads/01-28-Gaver-CulturalProbes.pdf) _Interactions_ 6, no. 1 (1999): 21–29.
+Gaver, Bill, Tony Dunne, et al. ["Design: Cultural Probes." (PDF)](http://ellieharmon.com/wp-content/uploads/01-28-Gaver-CulturalProbes.pdf) _Interactions_ 6, no. 1 (1999): 21–29.
 
-Gaver, William W., Andrew Boucher, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cultural Probes and the Value of Uncertainty." (PDF)](http://research.gold.ac.uk/4720/1/p53-gaver.pdf) _Interactions_ 11, no. 5 (2004): 53–56.
+Gaver, William W., Andrew Boucher, et al. ["Cultural Probes and the Value of Uncertainty." (PDF)](http://research.gold.ac.uk/4720/1/p53-gaver.pdf) _Interactions_ 11, no. 5 (2004): 53–56.
 
 
 {{< tdclose >}}
@@ -50,7 +50,7 @@ Design
 {{< tdopen >}}
 
 
-Bauza, Antoine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Takenoko Rules." (PDF - 6.3MB)](http://www.matagot.com/docs/Takenoko_rules_EN.pdf)
+Bauza, Antoine. ["Takenoko Rules." (PDF - 6.3MB)](http://www.matagot.com/docs/Takenoko_rules_EN.pdf)
 
 ### Videos
 
@@ -90,7 +90,7 @@ Design Teams
 {{< tdopen >}}
 
 
-Brathwaite, Brenda, and Ian Shreiber. Chapter 1 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Challenges for Game Designers (PDF - 4.3MB)_](https://epdf.pub/challenges-for-game-designers.html). Charles River Media, Incorporation, 2009.
+Brathwaite, Brenda, and Ian Shreiber. Chapter 1 in [_Challenges for Game Designers (PDF - 4.3MB)_](https://epdf.pub/challenges-for-game-designers.html). Charles River Media, Incorporation, 2009.
 
 ### Video
 
