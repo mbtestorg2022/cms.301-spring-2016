@@ -109,7 +109,7 @@ Mostly Comparative Media Studies
 
 ### Typical Student Background
 
-This is an introductory course. For many of the students, it’s the first time they seriously engage with design methods. Some of the students have taken the sister course _[CMS.300 Introduction to Videogame Studies](/courses/cms-300-introduction-to-videogame-studies-fall-2011/)_. The two courses complement each other well, and together they form a solid foundation for more advanced game related courses. The students tend to have a general interest in video games, which we use as a shared starting point.
+This is an introductory course. For many of the students, it’s the first time they seriously engage with design methods. Some of the students have taken the sister course _[CMS.300 Introduction to Videogame Studies](/courses/cms-300-introduction-to-videogame-studies-fall-2011)_. The two courses complement each other well, and together they form a solid foundation for more advanced game related courses. The students tend to have a general interest in video games, which we use as a shared starting point.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
